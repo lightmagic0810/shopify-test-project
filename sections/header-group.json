@@ -56,12 +56,12 @@
         "padding_bottom": 20
       }
     },
-    "custom_liquid_nBMbTb": {
+    "custom_liquid_UPpLnw": {
       "type": "custom-liquid",
       "custom_css": [
-        ".header {z-index: 10; width: 95%; padding: 10px; border-radius: 10px; left: 2.5%; top: 3%; position: absolute; background-color: white; display: flex; align-items: center; justify-content: space-between;}",
+        ".header {z-index: 10; width: 95%; padding: 10px; border-radius: 10px; left: 2.5%; top: 3%; position: absolute; background-color: white; display: flex; align-items: center;}",
         ".logo {font-weight: bold; color: black; padding: 5px 20px; border-radius: 10px; font-size: 20px;}",
-        ".nav-menu {display: flex; gap: 30px;}",
+        ".nav-menu {display: flex; gap: 30px; margin: 0 5% 0 10%;}",
         ".nav-menu > a {text-decoration: none; color: black; font-size: 14px;}",
         ".icon {display: flex; align-items: center;}",
         ".header-button {display: flex; gap: 5px; align-items: center;}"
@@ -77,6 +77,6 @@
   "order": [
     "announcement-bar",
     "header",
-    "custom_liquid_nBMbTb"
+    "custom_liquid_UPpLnw"
   ]
 }
